@@ -1,11 +1,9 @@
 # CSC584-Individual-Assignment-1-ANEESA-SOFEYYA
-CSC584-Individual-Assignment-1 (Personal Profile Web Application)
 # Personal Profile Web Application
 
 ## Project Description
 This project is a simple Personal Profile Web Application developed using HTML, Java Servlet and JSP. It allows users to enter their personal information through an HTML form and displays the submitted information on a JSP page.
 
-## Technologies Used
 ## Technologies Used
 - HTML
 - CSS
@@ -36,7 +34,9 @@ This project is a simple Personal Profile Web Application developed using HTML, 
 ## Screenshots
 
 ### Personal Profile Form
-Insert your form screenshot here.
+<img width="1917" height="957" alt="Screenshot 2026-11-13 115758" src="https://github.com/user-attachments/assets/8632ce62-0674-42eb-b098-2c681c5f2ed7" />
+
 
 ### Profile Output
-Insert your profile output screenshot here.
+<img width="1917" height="942" alt="Screenshot 2026-11-13 115807" src="https://github.com/user-attachments/assets/b4da796e-c9d2-42cd-b43a-423c5ae50a09" />
+
